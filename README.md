@@ -2,4 +2,4 @@
 
 wget https://raw.githubusercontent.com/robbowz/SMRTC/master/smrtc_install.sh
 
-chmod +x test.sh && ./smrtc_install.sh
+chmod +x smrtc_install.sh && ./smrtc_install.sh
